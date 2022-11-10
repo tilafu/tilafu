@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tilafu
-- 👀 I’m interested in improving my development skills
+- 👀 I’m interested in DevOps, automation, and administration.
 - 🌱 I’m currently learning Python and Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 0792217761
