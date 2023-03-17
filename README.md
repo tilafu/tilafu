@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tilafu
-- 👀 I’m interested in DevOps, automation, and administration.
-- 🌱 I’m currently learning Python and Linux
-- 💞️ I’m looking to collaborate on web apps and automation
+- 👀 I’m interested in UI/UX and Frontend development.
+- 🌱 I’m currently learning React and Redux.
+- 💞️ I’m looking to collaborate on web apps
 - 📫 Reach me 0792217761
 
 <!---
