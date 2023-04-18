@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tilafu
-- 👀 I’m interested in UI/UX and Frontend development.
+- 👋 Hi, I’m Elias Muchai
+- 👀 I’m interested in Frontend development (JS), Python, and Linux Administration.
 - 🌱 I’m currently learning React and Redux.
 - 💞️ I’m looking to collaborate on web apps
 - 📫 Reach me 0792217761
