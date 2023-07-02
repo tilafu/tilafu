@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Elias Muchai
-- 👀 I’m interested in Frontend development (JS), Python, and Linux Administration.
-- 🌱 I’m currently learning React and Redux.
-- 💞️ I’m looking to collaborate on web apps
+- 👀 I’m interested in Python, and Linux Administration, Testing, Automation, and Systems monitoring.
+- 💞️ Open source over everything.
 - 📫 Reach me 0792217761
 
 <!---
